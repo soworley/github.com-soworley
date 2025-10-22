@@ -22,5 +22,5 @@ I love exploring new technologies and building projects to improve my skills.
 
 ## 📫 Contact Me
 
-- **Email:** soworley@example.com  
+- **Email:** Sonja.Worley@newberry.edu  
 - **LinkedIn:** [linkedin.com/in/soworley](https://www.linkedin.com/in/soworley)
